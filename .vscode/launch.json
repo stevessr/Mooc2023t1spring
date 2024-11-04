@@ -34,8 +34,8 @@
       "args": [],
       "stopAtEntry": false,
       "externalConsole": true,
-      "cwd": "d:/ssh/Mooc2023t1spring/i am tired/educg/28315",
-      "program": "d:/ssh/Mooc2023t1spring/i am tired/educg/28315/build/Debug/outDebug",
+      "cwd": "d:/ssh/Mooc2023t1spring/i am tired/educg/Qn0zVKl0UqM",
+      "program": "d:/ssh/Mooc2023t1spring/i am tired/educg/Qn0zVKl0UqM/build/Debug/outDebug",
       "MIMode": "gdb",
       "miDebuggerPath": "gdb",
       "setupCommands": [

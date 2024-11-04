@@ -113,6 +113,10 @@
     "stdio.h": "c",
     "string.h": "c",
     "math.h": "c",
-    "time.h": "c"
+    "time.h": "c",
+    "set": "cpp",
+    "fstream": "cpp",
+    "map": "cpp",
+    "cstring": "cpp"
   }
 }
