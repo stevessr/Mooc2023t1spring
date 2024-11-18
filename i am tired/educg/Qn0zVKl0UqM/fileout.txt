@@ -1,0 +1,11 @@
+#"in"clude <stdio.h>
+void ma"in"()
+{
+    FILE * "in";
+    if(("in"=fopen(""in".txt","r"))==NULL)
+    {
+       pr"in"tf("Can't open "in".txt!");
+       return;
+    }
+    fclose("in");
+}

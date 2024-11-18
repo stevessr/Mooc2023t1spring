@@ -1,0 +1,4 @@
+int int int 
+double double double 
+void char 
+int double float 

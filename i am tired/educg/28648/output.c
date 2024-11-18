@@ -1,0 +1,1 @@
+#include<stdio.h>int(intx,inty);int(int,int);main(){inta,b,theMax,theMin;scanf("%d%d",&a,&b);theMax=(a,b);theMin=(a,b);printf("%d>%d\n",theMax,theMin);}int(intx,inty){if(x>y)returnx;elsereturny;}int(intx,inty){if(x>y)returny;elsereturnx;}
