@@ -1,0 +1,29 @@
+curl ^"https://linux.do/t/93264/archive-message^" ^
+  -X ^"PUT^" ^
+  -H ^"accept: */*^" ^
+  -H ^"accept-language: zh-CN,zh;q=0.9,en;q=0.8,en-GB;q=0.7,en-US;q=0.6^" ^
+  -H ^"cache-control: no-cache^" ^
+  -H ^"content-length: 0^" ^
+  -H ^"cookie: theme_ids=1^%^7C1; __stripe_mid=d4333495-c591-48cb-a9e0-f566f537e6b6468c4a; __stripe_sid=3015cec8-2058-4a31-be5f-55e4a8befa7d458a8e; _t=bdDV6cnzWAq0P^%^2B1dZSAWkeJFUGr7J^%^2BmoAEbbWGdMmfj3Ev90NjfJLv9RcBkycXiOmpXrDQvGcpLvhXtkoEiXQq^%^2FmQEdxU^%^2FfqR05SGGWvpWMO^%^2Bg74GcseJ^%^2Fc3uRKgSa8q88t6oVPVSxDBawbtVG^%^2FiDHGIJHyn^%^2FbRZi8MEDoNR6m2qe0oXzM6ki27O5qSktisnZU3oGHR8LnPUA6nVcrftGiK8zYvq41d0fidfRnd6iNPolDxPRIQpZQ6IWgLeNiAEg9GHd4GvOOH2z9AWOL94gQvESrf3CXD0CIm1tAflC5ZDJMvvL9w3K4H9c1I^%^3D--5mrT89bqAHmaJHn0--2yNHts3j4yKLm7UgG3hIaA^%^3D^%^3D; cf_clearance=rejZ6f3w7tdmvvA8gSo4KFmBFRPkLQMreUoNudhLckk-1734519494-1.2.1.1-mVGCejOkwNczTZEaS5YNdSJX5dFM.wB5.0_M8t1BVfKYbQldacdzy2AOtbaglRKr4nC6hiLbjrYzfvhjM9EpkZxnJ74FFmw82z4uTtxQOCRMSsBy0buNMXfnx9hf6IinUd6eoTKjuxL4af0X2mqaNNsQzQcHhqDqLDFDjeIjLlttcDJ9gGL_379S.6KWih_IKrkEJ7n9g_Mmtkr5bEo4YvTCD9bdKUC72eygJR761vvny5gOHSVTN5d0dTDj3G_.wle8Vgztwi2YX_TTn0DDvO9SnTvs7reNOCtiOoRDPv.3HD_aruXiidV_OGmc_GMVgMo8AyHHI6ciSsXXnACtFx1lHxfo3oEXL0tGg09dw2v4IlykJmGKFYrguKainDbFFj7VPFj5N0h71Tfctm7rDU6AYR8gkVs63Wdc6wUHMYg; _forum_session=umeSjOlkomTrcvlGkelYW91TE8YfKzc3vrZ5nRcTy9VC^%^2B3wgtFQFLgLJ^%^2FjUExD0IV8229jC4GrhpzqzL83szP0KF5NpPZIUdR^%^2BEWI^%^2BshIzml82llAA8WCFmYFWmoaUmip6qITTl^%^2BNVgIVOKfD44OBMfg704UXspbfmBTcf^%^2F6Bl2iJgvW57NvDlZTTZ2oPx^%^2BFkZdZnIJK0I8us4Uq3BF^%^2BENXSucLTQrfAQJndv0SEZ^%^2FoVH25EtQtOc47sxprIeyqeAu^%^2Fvf8^%^2BhIB8SaPnxgSiSwZz059NqC^%^2F5yFX6vs2W2gm79He1ZeGbf30stSnL2N133pLq0qbrKIW2Q^%^2B6b1wbOJ7xOVHpklmhKQc0ik^%^2FlU^%^2BuaNh7fd4G99C0QZTqyHz2Y6w4c8gxZXnmX^%^2B30KjHZ1SD3Lbj6sSHQnYPklSVD^%^2BdyNPg9^%^2Fl0viww^%^3D--YgboX3gYvfvGkf5l--mOdcd5E0Vzp0237hbw89Qw^%^3D^%^3D^" ^
+  -H ^"discourse-logged-in: true^" ^
+  -H ^"discourse-present: true^" ^
+  -H ^"dnt: 1^" ^
+  -H ^"origin: https://linux.do^" ^
+  -H ^"pragma: no-cache^" ^
+  -H ^"priority: u=1, i^" ^
+  -H ^"referer: https://linux.do/t/topic/229042/3^" ^
+  -H ^"sec-ch-ua: ^\^"Microsoft Edge^\^";v=^\^"131^\^", ^\^"Chromium^\^";v=^\^"131^\^", ^\^"Not_A Brand^\^";v=^\^"24^\^"^" ^
+  -H ^"sec-ch-ua-arch: ^\^"x86^\^"^" ^
+  -H ^"sec-ch-ua-bitness: ^\^"64^\^"^" ^
+  -H ^"sec-ch-ua-full-version: ^\^"131.0.2903.99^\^"^" ^
+  -H ^"sec-ch-ua-full-version-list: ^\^"Microsoft Edge^\^";v=^\^"131.0.2903.99^\^", ^\^"Chromium^\^";v=^\^"131.0.6778.140^\^", ^\^"Not_A Brand^\^";v=^\^"24.0.0.0^\^"^" ^
+  -H ^"sec-ch-ua-mobile: ?0^" ^
+  -H ^"sec-ch-ua-model: ^\^"^\^"^" ^
+  -H ^"sec-ch-ua-platform: ^\^"Windows^\^"^" ^
+  -H ^"sec-ch-ua-platform-version: ^\^"15.0.0^\^"^" ^
+  -H ^"sec-fetch-dest: empty^" ^
+  -H ^"sec-fetch-mode: cors^" ^
+  -H ^"sec-fetch-site: same-origin^" ^
+  -H ^"user-agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36 Edg/131.0.0.0^" ^
+  -H ^"x-csrf-token: 4fACLqIyEleol9oKQhoFTxex2idTLKAnmILkDjPOrxVzqhVGwYaonKAo2mUEd0eKIUuo2liFCPtXCNem55oqHA^" ^
+  -H ^"x-requested-with: XMLHttpRequest^"

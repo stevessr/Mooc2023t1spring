@@ -157,6 +157,7 @@
     "thread": "c",
     "typeindex": "c",
     "valarray": "c",
-    "stack": "cpp"
+    "stack": "cpp",
+    "stdbool.h": "c"
   }
 }

@@ -34,8 +34,8 @@
       "args": [],
       "stopAtEntry": false,
       "externalConsole": true,
-      "cwd": "d:/ssh/Mooc2023t1spring/i am tired/educg/Qn0zVKl0UqM",
-      "program": "d:/ssh/Mooc2023t1spring/i am tired/educg/Qn0zVKl0UqM/build/Debug/outDebug",
+      "cwd": "d:/ssh/Mooc2023t1spring/i am tired/educg/number/30260",
+      "program": "d:/ssh/Mooc2023t1spring/i am tired/educg/number/30260/build/Debug/outDebug",
       "MIMode": "gdb",
       "miDebuggerPath": "gdb",
       "setupCommands": [
@@ -45,6 +45,17 @@
           "ignoreFailures": true
         }
       ]
+    },
+    {
+      "name": "(Windows) 启动",
+      "type": "cppvsdbg",
+      "request": "launch",
+      "program": "输入程序名称，例如 ${workspaceFolder}/a.exe",
+      "args": [],
+      "stopAtEntry": false,
+      "cwd": "${fileDirname}",
+      "environment": [],
+      "console": "externalTerminal"
     }
   ]
 }

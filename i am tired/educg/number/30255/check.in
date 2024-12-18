@@ -1,0 +1,10 @@
+static void PrintArr (int *p)
+{
+    int i = 0;
+    while (*(p+i))
+        printf ("%4d", *(p + i));
+       i++;
+    }
+    printf ("\r\n");
+    return;
+}
